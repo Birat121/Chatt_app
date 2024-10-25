@@ -12,12 +12,39 @@
 
 <h2>Tech Stack</h2>
 <ul>
-  <li>Frontend: React.js, Redux for state management, Tailwind CSS for styling</li>
+  <li>Frontend: React.js, Context API for state management, Tailwind CSS for styling</li>
   <li>Backend: Node.js, Express.js, Socket.IO for real-time communication</li>
   <li>Database: MongoDB</li>
   <li>Other Libraries: Mongoose for MongoDB object modeling, JSON Web Token (JWT) for authentication</li>
 </ul>
-Tech Stack
+
+<h2>Usage</h2>
+<ul>
+  <li>Register a new account or log in with an existing account.</li>
+  <li>Add contacts and start chatting in real time.</li>
+  <li>Messages are displayed in real-time, with chat history stored in the database for later access.</li>
+</ul>
+
+<h2>Project Structure</h2>
+<ul>
+  <li>frontend: Contains React code for the UI</li>
+  <li>backend: Node.js server code handling API routes, database interactions, and real-time messaging</li>
+</ul>
+
+<h2>Future Enhancements</h2>
+<ul>
+  <li>Group Chat: Adding support for group messaging.</li>
+  <li>Notifications: Real-time notifications for incoming messages.</li>
+  <li>Media Sharing: Allow sharing of images, videos, and files</li>
+</ul>
+
+
+.
+
+
+
+
+
 
 
 
